@@ -5,8 +5,8 @@ app.use(cors({ origin: ["http://localhost:5173"] }));
 
 const sampleEmployee = {
 	name: {
-		first: "Leon",
-		last: "Thompson",
+		first: "Bamba",
+		last: "Diop",
 	},
 	email: "charlie.thompson@example.com",
 	picture: {
